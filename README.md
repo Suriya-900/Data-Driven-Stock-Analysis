@@ -88,45 +88,7 @@ Database: MySQL/PostgreSQL
 
 Visualization Tools: Streamlit, Power BI
 
-💻 Installation & Usage
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/stock-analysis-dashboard.git
-cd stock-analysis-dashboard
-Install required dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Streamlit App:
-
-bash
-Copy
-Edit
-streamlit run app.py
-Open the Power BI Dashboard:
-
-Download and open the .pbix Power BI file to interact with the stock performance visualizations.
-
-📁 Project Structure
-bash
-Copy
-Edit
-stock-analysis-dashboard/
-│
-├── app.py                     # Streamlit app for real-time analysis
-├── data/
-│   ├── raw_data/              # Raw data extracted from YAML files
-│   ├── transformed_data/      # Processed CSV files
-│
-├── db/                        # SQL scripts for database setup and queries
-├── power_bi/                  # Power BI reports and dashboards
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project documentation
 🎯 Project Deliverables
 SQL Database: Contains clean and processed stock data.
 
