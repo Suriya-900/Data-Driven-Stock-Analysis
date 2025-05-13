@@ -1,4 +1,7 @@
 Data-Driven Stock Analysis: Organizing, Cleaning, and Visualizing Market Trends
+
+
+
 📊 Project Overview
 The Stock Performance Dashboard project aims to analyze, clean, and visualize Nifty 50 stock data over the past year. It utilizes various techniques to provide insights into stock performance, including key metrics, volatility, cumulative return, and sector-wise performance. This project leverages Python, Streamlit, and Power BI for interactive visualizations, with the goal of helping investors, analysts, and enthusiasts make informed decisions based on stock performance trends.
 
